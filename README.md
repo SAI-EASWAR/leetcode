@@ -8,8 +8,8 @@ This repository contains solutions for LeetCode's Problem of the Day, organized 
 #### December
 | Date       | Problem Title            | Problem No. | Problem Code   |
 |------------|--------------------------|-------------|----------------|
-| 2024-12-01 | Binary Tree Inorder Traversal | 1346 |[`problem_01.cpp`](2024/December/problem_01.cpp) |
-| 2024-12-02 | Linked List Cycle        | 1455 |[`problem_02.cpp`](2024/December/problem_02.cpp) |
+| 2024-12-01 | Check If N and Its Double Exist | 1346 |[`problem_01.cpp`](2024/December/problem_01.cpp) |
+| 2024-12-02 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | 1455 |[`problem_02.cpp`](2024/December/problem_02.cpp) |
 
 ### 2025
 #### January
