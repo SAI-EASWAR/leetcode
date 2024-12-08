@@ -6,7 +6,7 @@ This repository contains solutions for LeetCode's Problem of the Day, organized 
 
 ### 2024
 #### December
-| Date       | Problem Title            | Problem No. | Problem Code   |
+| **Date**       | **Problem Title**            | **Problem No.** | **Problem Code**   |
 |------------|--------------------------|-------------|----------------|
 | 2024-12-01 | Check If N and Its Double Exist | 1346 |[`problem_01.cpp`](2024/December/problem_01.cpp) |
 | 2024-12-02 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | 1455 |[`problem_02.cpp`](2024/December/problem_02.cpp) |
