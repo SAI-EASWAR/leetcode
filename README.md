@@ -8,7 +8,7 @@ This repository contains solutions for LeetCode's Problem of the Day, organized 
 #### December
 | Date       | Problem Title            | Problem Code   |
 |------------|--------------------------|----------------|
-| 2024-12-01 | Binary Tree Inorder Traversal | `problem_01.cpp` |
+| 2024-12-01 | Binary Tree Inorder Traversal | [`problem_01.cpp`](2024/December/problem_01.cpp) |
 | 2024-12-02 | Linked List Cycle        | `problem_02.cpp` |
 
 ### 2025
