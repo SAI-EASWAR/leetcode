@@ -1,6 +1,6 @@
 # LeetCode Problems of the Day
 
-This repository contains solutions for LeetCode's Problem of the Day, organized by year and month. Each problem's code is mapped to its respective date and title in this README file.
+This repository contains solutions for LeetCode's Problem of the Day, organized by year and month. Each problem's code is mapped to its respective date and title.
 
 ## Problems Mapping
 
