@@ -6,10 +6,10 @@ This repository contains solutions for LeetCode's Problem of the Day, organized 
 
 ### 2024
 #### December
-| Date       | Problem Title            | Problem Code   |
-|------------|--------------------------|----------------|
-| 2024-12-01 | Binary Tree Inorder Traversal | [`problem_01.cpp`](2024/December/problem_01.cpp) |
-| 2024-12-02 | Linked List Cycle        | `problem_02.cpp` |
+| Date       | Problem Title            | Problem No. | Problem Code   |
+|------------|--------------------------|-------------|----------------|
+| 2024-12-01 | Binary Tree Inorder Traversal | 1346 |[`problem_01.cpp`](2024/December/problem_01.cpp) |
+| 2024-12-02 | Linked List Cycle        | 1455 |[`problem_02.cpp`](2024/December/problem_02.cpp) |
 
 ### 2025
 #### January
