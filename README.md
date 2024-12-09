@@ -9,15 +9,15 @@ This repository contains solutions for LeetCode's Problem of the Day, organized 
 
 | 📅 **Date**   | 🔢 **Problem No.** | 📝 **Problem Title**            | 📂 **Problem Code**         |
 |:-------------:|:------------------:|:-------------------------------:|:---------------------------:|
-| 01-Dec-24     | [1346][p1346]      | Check If N and Its Double Exist | [`problem_1346.cpp`][24dec01]     |
-| 02-Dec-24     | [1455][p1455]      | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [`problem_1455.cpp`][24dec02]     |
-| 03-Dec-24     | [2109][p2109]      | Adding Spaces to a String       | [`problem_2109.cpp`][24dec03]     |
-| 04-Dec-24     | [2825][p2825]      | Make String a Subsequence Using Cyclic Increments | [`problem_2825.cpp`][24dec04]     |
-| 05-Dec-24     | [2337][p2337]      | Move Pieces to Obtain a String  | [`problem_2337.cpp`][24dec05]     |
-| 06-Dec-24     | [2554][p2554]      | Maximum Number of Integers to Choose From a Range I | [`problem_2554.cpp`][24dec06]     |
-| 07-Dec-24     | [1760][p1760]      | Minimum Limit of Balls in a Bag | [`problem_1760.cpp`][24dec07]     |
-| 08-Dec-24     | [2054][p2054]      | Two Best Non-Overlapping Events | [`problem_2054.cpp`][24dec08]     |
-| 09-Dec-24     | [3152][p3152]      | Special Array II                | [`problem_3152.cpp`][24dec09]     |
+| 01-Dec     | [1346][p1346]      | Check If N and Its Double Exist | [`problem_1346.cpp`][24dec01]     |
+| 02-Dec     | [1455][p1455]      | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [`problem_1455.cpp`][24dec02]     |
+| 03-Dec     | [2109][p2109]      | Adding Spaces to a String       | [`problem_2109.cpp`][24dec03]     |
+| 04-Dec     | [2825][p2825]      | Make String a Subsequence Using Cyclic Increments | [`problem_2825.cpp`][24dec04]     |
+| 05-Dec     | [2337][p2337]      | Move Pieces to Obtain a String  | [`problem_2337.cpp`][24dec05]     |
+| 06-Dec     | [2554][p2554]      | Maximum Number of Integers to Choose From a Range I | [`problem_2554.cpp`][24dec06]     |
+| 07-Dec     | [1760][p1760]      | Minimum Limit of Balls in a Bag | [`problem_1760.cpp`][24dec07]     |
+| 08-Dec     | [2054][p2054]      | Two Best Non-Overlapping Events | [`problem_2054.cpp`][24dec08]     |
+| 09-Dec     | [3152][p3152]      | Special Array II                | [`problem_3152.cpp`][24dec09]     |
 
 <!-- Links Section -->
 [p1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
