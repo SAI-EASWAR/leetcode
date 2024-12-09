@@ -6,8 +6,9 @@ This repository contains solutions for LeetCode's Problem of the Day, organized 
 
 ### 2024
 #### December
-| **Date**       | **Problem No.**                              | **Problem Title**                               | **Problem Code**                                  |
-|----------------|---------------------------------------------|------------------------------------------------|-------------------------------------------------|
+
+| 📅 **Date**    | 🔢 **Problem No.**                          | 📝 **Problem Title**                            | 📂 **Problem Code**                               |
+|:---------------|:-------------------------------------------:|:------------------------------------------------|:-------------------------------------------------|
 | 2024-12-01     | [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Check If N and Its Double Exist                | [`problem_01.cpp`](2024/December/problem_01.cpp) |
 | 2024-12-02     | [1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [`problem_02.cpp`](2024/December/problem_02.cpp) |
 | 2024-12-03     | [2109](https://leetcode.com/problems/adding-spaces-to-a-string/) | Adding Spaces to a String                      | [`problem_03.cpp`](2024/December/problem_03.cpp) |
@@ -17,6 +18,7 @@ This repository contains solutions for LeetCode's Problem of the Day, organized 
 | 2024-12-07     | [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Minimum Limit of Balls in a Bag                | [`problem_07.cpp`](2024/December/problem_07.cpp) |
 | 2024-12-08     | [2054](https://leetcode.com/problems/two-best-non-overlapping-events/) | Two Best Non-Overlapping Events                | [`problem_08.cpp`](2024/December/problem_08.cpp) |
 | 2024-12-08     | [3152](https://leetcode.com/problems/special-array-ii/) | Special Array II                               | [`problem_09.cpp`](2024/December/problem_09.cpp) |
+
 
 
 ### 2025
