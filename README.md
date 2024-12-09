@@ -16,6 +16,7 @@ This repository contains solutions for LeetCode's Problem of the Day, organized 
 | 2024-12-06 | Maximum Number of Integers to Choose From a Range I | 2554 |[`problem_06.cpp`](2024/December/problem_06.cpp) |
 | 2024-12-07 | Minimum Limit of Balls in a Bag | 1760 |[`problem_07.cpp`](2024/December/problem_07.cpp) |
 | 2024-12-08 | Two Best Non-Overlapping Events | 2054 |[`problem_08.cpp`](2024/December/problem_08.cpp) |
+| 2024-12-08 | Special Array II | 3152 |[`problem_09.cpp`](2024/December/problem_09.cpp) |
 
 ### 2025
 #### January
